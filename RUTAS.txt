@@ -1,0 +1,18 @@
+https://divshopaqp.herokuapp.com/entry/signup			Sign In (De adorno xd)
+https://divshopaqp.herokuapp.com/entry/login			Login (De adorno xd)
+https://divshopaqp.herokuapp.com/products			Lista productos
+https://divshopaqp.herokuapp.com/products/create 		(POST, no sirve)
+https://divshopaqp.herokuapp.com/categories/create		(POST, no sirve)
+https://divshopaqp.herokuapp.com/shoppingcart			Carrito de compras
+https://divshopaqp.herokuapp.com/shoppingcart/add/:id		Para gestionar creo (No sirve)
+https://divshopaqp.herokuapp.com/shoppingcart/delete/:id	Para gestionar creo (No sirve)
+https://divshopaqp.herokuapp.com/contact			Adorno
+https://divshopaqp.herokuapp.com/about				Acerca de
+
+[ADMIN]
+https://divshopaqp.herokuapp.com/admin/view/products		Lista de productos (Admin)
+https://divshopaqp.herokuapp.com/admin/new/products		VISTA Crear producto
+https://divshopaqp.herokuapp.com/admin/save/products		(Post, no sirve) Guarda productos
+https://divshopaqp.herokuapp.com/admin/edit/products/:id	VISTA Modifica un producto 
+https://divshopaqp.herokuapp.com/admin/edit/products/update/:id	(POST, no sirve) actualiza un producto
+https://divshopaqp.herokuapp.com/admin/delete/products/:id	(POST o algo asi, no sivre)
